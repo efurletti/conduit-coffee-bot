@@ -1,0 +1,17 @@
+{
+  "kind": 1,
+  "created_at": 1727641360,
+  "tags": [],
+  "content": "Hello, Nostr!",
+  "pubkey": "f8bb4b6899ce51f8eb8e8b801f9c41b330e0879ca7200e1e5127181b77c647fe",
+  "id": "3bbc085a003f879656ebab232d46ccc32e4dbb6f9e1ca5ec673121b1b1fcc6d5",
+  "sig": {
+    "kind": 1,
+    "created_at": 1727641360,
+    "tags": [],
+    "content": "Hello, Nostr!",
+    "pubkey": "f8bb4b6899ce51f8eb8e8b801f9c41b330e0879ca7200e1e5127181b77c647fe",
+    "id": "3bbc085a003f879656ebab232d46ccc32e4dbb6f9e1ca5ec673121b1b1fcc6d5",
+    "sig": "81270be8c4d222b733cca4feda5fa5c334ec90fdbf778c6980dadf0d45cfde55570185a3faa0cda5aa6e7563ed15660c13ea87adcacf19dc81fa34962c9e36ea"
+  }
+}
